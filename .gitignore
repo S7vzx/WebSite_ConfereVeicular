@@ -1,60 +1,23 @@
-# ───── Node ──────────────────────────────────────────────
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
+# ───── OCULTAR TODO O CÓDIGO ───────────────────────────────
+# Oculta todos os arquivos
+*
 
-# ───── Vite ───────────────────────────────────────────────
-dist/
-build/
-.vite/
+# ───── EXCEÇÕES: O QUE PODE APARECER ───────────────────────
+# NÃO ignorar pastas (mostrar estrutura)
+!*/
 
-# ───── React (CRA / Vite / Next) ──────────────────────────
-build/
-*.zip
-*.tar.gz
+# NÃO ignorar arquivos importantes de documentação
+!README.md
+!README.MD
+!LICENSE
+!.gitignore
 
-# ───── Next.js ─────────────────────────────────────────────
-.next/
-out/
-.vercel/
-.env.local
-.env.development.local
-.env.production.local
-.env.test.local
-
-# ───── Environment (.env) ─────────────────────────────────
-.env
-.env.*
-!.env.example
-
-# ───── Sistemas Operacionais ──────────────────────────────
-# macOS
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-
-# Linux
-*~
-
-# ───── IDEs e Editores ─────────────────────────────────────
-.vscode/
-.idea/
-*.swp
-
-# ───── Logs ────────────────────────────────────────────────
-logs/
-*.log
-logs/*.log
-
-# ───── TypeScript ──────────────────────────────────────────
-*.tsbuildinfo
-
-# ───── Git ─────────────────────────────────────────────────
-.gitignore
+# Não ignorar arquivos de configuração principais (opcional)
+!package.json
+!package-lock.json
+!yarn.lock
+!pnpm-lock.yaml
+!tsconfig.json
+!jsconfig.json
+!next.config.js
+!vite.config.js
