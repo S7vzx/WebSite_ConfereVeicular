@@ -25,21 +25,19 @@ Entregar uma experiência ágil, organizada e confiável para quem precisa consu
 
 ---
 
-## Tecnologias utilizadas
-
 ### Linguagens e ferramentas principais
 
-- **[HTML] HTML5** `<!DOCTYPE html>`
-- **[CSS] CSS3**
-- **[JS] JavaScript**
-- **[TS] TypeScript**
-- **[REACT] React**
-- **[VITE] Vite**
-- **[TAILWIND] Tailwind CSS**
-- **[SHADCN] shadcn/ui**
-- **[POSTCSS] PostCSS**
-- **[ESLINT] ESLint**
-- **[NODE] Node.js / NPM / Bun**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" /> **HTML5**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" /> **CSS3**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" /> **JavaScript**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" /> **TypeScript**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" /> **React**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="20" /> **Vite**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20" /> **Tailwind CSS**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" /> **Node.js / NPM / Bun**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="20" /> **ESLint**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postcss/postcss-original.svg" width="20" /> **PostCSS**
+- <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" width="20" /> **shadcn/ui**
 
 ---
 
