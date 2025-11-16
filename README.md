@@ -1,4 +1,4 @@
-# Confere Veicular <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABDgAAAQ4CAYAAADsEGyPAAAACXBIWXMAAA9hAAAPYQGoP6dpAADa7UlEQVR4nOzdd5hdZb238TsJ[...] " width="40" />
+# Confere Veicular <img src="/public/uploads/favicon" width="40" />
 
 O **Confere Veicular** é uma plataforma criada para facilitar o acesso a informações essenciais sobre veículos, reunindo tudo em um só lugar.  
 Com uma interface moderna e experiência eficiente, o objetivo é ajudar compradores, vendedores e curiosos a verificarem dados de forma clara e rápida.
@@ -43,7 +43,7 @@ Entregar uma experiência ágil, organizada e confiável para quem precisa consu
 
 ## Acesse o Projeto
 
-Acesse o projeto em: [https://confereveicular.com.br](https://confereveicular.com.br)
+Acesse o projeto em: (https://confereveicular.com.br)
 
 ---
 
