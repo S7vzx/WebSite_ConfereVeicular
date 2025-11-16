@@ -1,23 +1,32 @@
-# ───── OCULTAR TODO O CÓDIGO ───────────────────────────────
-# Oculta todos os arquivos
-*
+# ───── OCULTAR ARQUIVOS DE CÓDIGO ───────────────────────────────
+# Oculta arquivos comuns de desenvolvimento
+*.js
+*.jsx
+*.ts
+*.tsx
+*.css
+*.scss
+*.sass
+*.module.css
+*.module.scss
+*.json
+*.mdx
+*.html
 
-# ───── EXCEÇÕES: O QUE PODE APARECER ───────────────────────
-# NÃO ignorar pastas (mostrar estrutura)
+# ───── MOSTRAR PASTAS (estrutura visível) ───────────────────────
 !*/
+!public/
+!assets/
 
-# NÃO ignorar arquivos importantes de documentação
+# ───── PERMITIR ARQUIVOS IMPORTANTES ───────────────────────────
 !README.md
-!README.MD
-!LICENSE
-!.gitignore
-
-# Não ignorar arquivos de configuração principais (opcional)
 !package.json
-!package-lock.json
-!yarn.lock
-!pnpm-lock.yaml
 !tsconfig.json
 !jsconfig.json
 !next.config.js
 !vite.config.js
+!postcss.config.js
+!tailwind.config.js
+
+# ───── ARQUIVOS QUE NÃO DEVEM SER OCULTADOS ────────────────────
+!.gitignore
