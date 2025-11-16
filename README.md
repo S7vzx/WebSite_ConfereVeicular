@@ -29,20 +29,17 @@ Entregar uma experiência ágil, organizada e confiável para quem precisa consu
 
 ### Linguagens e ferramentas principais
 
-- **HTML5** `<!DOCTYPE html>`
-- CSS3
-- JavaScript
-
-Este projeto utiliza tecnologias modernas e otimizadas para oferecer alto desempenho:
-
-- **React** – Interface dinâmica e componentizada
-- **TypeScript** – Tipagem estática para código mais seguro
-- **Vite** – Build rápido e desenvolvimento instantâneo
-- **Tailwind CSS** – Estilização ágil baseada em utilitários
-- **shadcn/ui** – Componentes profissionais e acessíveis
-- **PostCSS** – Processamento avançado de estilos
-- **ESLint** – Padronização e limpeza do código
-- **Node.js / NPM / Bun** – Gerenciamento de dependências
+- **[HTML] HTML5** `<!DOCTYPE html>`
+- **[CSS] CSS3**
+- **[JS] JavaScript**
+- **[TS] TypeScript**
+- **[REACT] React**
+- **[VITE] Vite**
+- **[TAILWIND] Tailwind CSS**
+- **[SHADCN] shadcn/ui**
+- **[POSTCSS] PostCSS**
+- **[ESLINT] ESLint**
+- **[NODE] Node.js / NPM / Bun**
 
 ---
 
